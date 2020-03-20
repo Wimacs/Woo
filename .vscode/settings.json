@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "memory": "c",
+        "mylang.tab.h": "c"
+    }
+}
